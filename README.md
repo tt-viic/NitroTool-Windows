@@ -4,9 +4,9 @@ ESTE SCRIPT ESCRITO EN PYTHON SOLO FUNCIONA EN WINDOWS.
 Para que la terminal pueda ejecutar el script, tendremos que tener descargado Python y su sistema de gestión de paquetes pip a partir de la versión 3.8.0 o superior (para comprobar la versión de Python que tienes instalada ejecuta en terminal "python --version")
 
 También deberemos tener descargados los requirements para descargarlos ejecute "pip install -r requirements.txt"en terminal.
-#Discord, para descargarlas ejecute en terminal "pip install discord-webhook"
-#Colorama, para descargarlas ejecute en terminal "pip install colorama"
-#Requests, para descargarlas ejecute en terminal "python -m pip install requests"
+.#Discord, para descargarlas ejecute en terminal "pip install discord-webhook"
+.#Colorama, para descargarlas ejecute en terminal "pip install colorama"
+.#Requests, para descargarlas ejecute en terminal "python -m pip install requests"
 
 Para el correcto funcionamiento del script, deberá de estar en una carpeta junto a un archivo llamado "codes.txt" y otro llamado "valid_codes.txt".
 
