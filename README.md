@@ -14,19 +14,22 @@ Una vez hecho lo anterior, ejecútelo en la terminal.
 
 
 
+
+FUNCIONAMIENTO Y UI
+
 ![NitroTool_viic_main](https://user-images.githubusercontent.com/78870476/126480535-8fcaebd9-4096-4548-ab03-f12d985280f7.png)
 
+
+
 ![NitroTool_viic_gen](https://user-images.githubusercontent.com/78870476/126480614-00e660e8-1b83-4cc8-95c1-4ca3aa25af98.png)
+
+
 
 ![NitroTool_viic_gen+check](https://user-images.githubusercontent.com/78870476/126480649-ea27ed55-ac71-463a-a314-fce34597fe7d.png)
 
 
 
 
-
 Cualquier duda/sugerencia/colaboración pueden contactarme envíando un mail a el siguiente correo: viic@tutanota.com
-
-
-
 
 viic                                    :)
