@@ -1,5 +1,5 @@
 # NitroTool-Windows
-ESTE SCRIPT ESCRITO EN PYTHON SOLO FUNCIONA EN WINDOWS.
+ESTE SCRIPT ESCRITO EN PYTHON **SOLO FUNCIONA EN WINDOWS**.
 
 Para que la terminal pueda ejecutar el script, tendremos que tener descargado Python y su sistema de gestión de paquetes pip a partir de la versión 3.8.0 o superior (para comprobar la versión de Python que tienes instalada ejecuta en terminal "python --version")
 
