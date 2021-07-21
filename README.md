@@ -8,8 +8,6 @@ También deberemos tener descargados los requirements para descargarlos ejecute 
 #Colorama, para descargarlas ejecute en terminal "pip install colorama"
 #Requests, para descargarlas ejecute en terminal "python -m pip install requests"
 
-Para el correcto funcionamiento del script, deberá de estar en una carpeta junto a un archivo llamado "codes.txt" y otro llamado "valid_codes.txt".
-
 Una vez hecho lo anterior, ejecútelo en la terminal.
 
 
