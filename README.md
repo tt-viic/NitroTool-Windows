@@ -6,9 +6,9 @@ Para que la terminal pueda ejecutar el script, tendremos que tener descargado [P
 > para comprobar la versión de Python que tienes instalada ejecuta en terminal `python --version`
 
 También deberemos tener descargados los requirements para descargarlos ejecute `pip install -r requirements.txt` en terminal.
--Discord, para descargarlas ejecute en terminal "pip install discord-webhook"
--Colorama, para descargarlas ejecute en terminal "pip install colorama"
--Requests, para descargarlas ejecute en terminal "python -m pip install requests"
+- Discord, para descargarlas ejecute en terminal "pip install discord-webhook"
+- Colorama, para descargarlas ejecute en terminal "pip install colorama"
+- Requests, para descargarlas ejecute en terminal "python -m pip install requests"
 
 ## EJECUCIÓN
 
@@ -39,6 +39,6 @@ También deberemos tener descargados los requirements para descargarlos ejecute 
 
 </H1>
 <center>
-  <img src=https://user-images.githubusercontent.com/78870476/126632792-15d278ae-d441-4865-9a21-ec1f6f5ba39f.png alt="HackingEspaña_transparente" />
+  <img src=https://user-images.githubusercontent.com/78870476/126632792-15d278ae-d441-4865-9a21-ec1f6f5ba39f.png alt="HackingEspaña_transparente">
 </center>
 
