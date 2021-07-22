@@ -11,7 +11,7 @@ Las librerías que se descargarán son:
  - Colorama
  - Requests
 
-A continuación le dejo la for4ma de instalación de cada librería en particular.
+A continuación le dejo la foryma de instalación de cada librería en particular.
 
 | Librería | Forma de instalación de cada librería en particular |
 | --- | --- |
@@ -47,7 +47,9 @@ A continuación le dejo la for4ma de instalación de cada librería en particula
 
 
 </H1>
-<center>
-  <img src=https://user-images.githubusercontent.com/78870476/126632792-15d278ae-d441-4865-9a21-ec1f6f5ba39f.png alt="HackingEspaña_transparente">
-</center>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78870476/126621491-07a3248c-3f61-4ec6-8ae8-e4a9ae062d4f.png" alt="HackingEspaña_transparente" />
+</p>
 
