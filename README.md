@@ -15,7 +15,7 @@ También deberemos tener descargados los requirements para descargarlos ejecute 
 
 
 
-FUNCIONAMIENTO Y UI
+## FUNCIONAMIENTO Y UI
 
 ![NitroTool_viic_main](https://user-images.githubusercontent.com/78870476/126480535-8fcaebd9-4096-4548-ab03-f12d985280f7.png)
 
@@ -28,8 +28,17 @@ FUNCIONAMIENTO Y UI
 ![NitroTool_viic_gen+check](https://user-images.githubusercontent.com/78870476/126480649-ea27ed55-ac71-463a-a314-fce34597fe7d.png)
 
 
+## CONTACTO/SUGERENCIAS
 
 
-Cualquier duda/sugerencia/colaboración pueden contactarme envíando un mail a el siguiente correo: viic@tutanota.com
+**Cualquier duda/sugerencia/colaboración pueden contactarme envíando un mail a el siguiente correo: viic@tutanota.com**
 
-viic                                    :)
+
+<H1> 
+
+
+</H1>
+<center>
+  <img src=https://user-images.githubusercontent.com/78870476/126632792-15d278ae-d441-4865-9a21-ec1f6f5ba39f.png alt="HackingEspaña_transparente" />
+</center>
+
