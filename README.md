@@ -6,9 +6,18 @@ Para que la terminal pueda ejecutar el script, tendremos que tener descargado [P
 > para comprobar la versión de Python que tienes instalada ejecuta en terminal `python --version`
 
 También deberemos tener descargados los requirements para descargarlos ejecute `pip install -r requirements.txt` en terminal.
-- Discord, para descargarlas ejecute en terminal "pip install discord-webhook"
-- Colorama, para descargarlas ejecute en terminal "pip install colorama"
-- Requests, para descargarlas ejecute en terminal "python -m pip install requests"
+Las librerías que se descargarán son:
+ - Discord-webhook
+ - Colorama
+ - Requests
+
+A continuación le dejo la for4ma de instalación de cada librería en particular.
+
+| Librería | Forma de instalación de cada librería en particular |
+| --- | --- |
+| Discord-Webhook | `pip install discord-webhook` |
+| Colorama | `pip install colorama` |
+| Requests | `python -m pip install requests` |
 
 ## EJECUCIÓN
 
