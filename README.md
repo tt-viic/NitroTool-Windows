@@ -1,6 +1,11 @@
 # NitroTool-Windows
 ESTE SCRIPT ESCRITO EN PYTHON **SOLO FUNCIONA EN WINDOWS**.
 
+
+Nos permitirá generar códigos de regalo de [Discord Nitro](https://discord.com/nitro) y comprobar si son válidos, ten en cuenta que el chance de obtener un link de Discord Nitro válido es extremadamente bajo ya que ha de coincidir con uno activo (**nota:** los códigos de Discord Nitro no suelen estar mucho tiempo activos ya que tienen fecha de caducidad (48h) y la persona que ha sido obsequiada con ese link de Discord Nitro lo suele reclamar en muy poco tiempo). 
+
+
+
 ## REQUISITOS
 Para que la terminal pueda ejecutar el script, tendremos que tener descargado [Python](https://www.python.org/) y su sistema de gestión de paquetes [pip](https://pypi.org/project/pip/) a partir de la versión 3.8.0 o superior. 
 > para comprobar la versión de Python que tienes instalada ejecuta en terminal `python --version`
@@ -11,7 +16,7 @@ Las librerías que se descargarán son:
  - Colorama
  - Requests
 
-A continuación le dejo la foryma de instalación de cada librería en particular.
+A continuación le dejo la forma de instalación de cada librería en particular.
 
 | Librería | Forma de instalación de cada librería en particular |
 | --- | --- |
@@ -19,8 +24,11 @@ A continuación le dejo la foryma de instalación de cada librería en particula
 | Colorama | `pip install colorama` |
 | Requests | `python -m pip install requests` |
 
-## EJECUCIÓN
 
+
+## EJECUCIÓN
+Para ejecutar el script ha de abrir el [CMD](https://www.ionos.es/digitalguide/servidores/herramientas/abrir-el-simbolo-del-sistema/) y [dirigirse al directorio en el que está el script](https://www.solvetic.com/tutoriales/article/8100-cambiar-de-directorio-en-cmd-windows-10-comandos/), por ejemplo, si se encuentra el script en Descargas copie `cd Downloads` si tienes el sistema operativo en inglés o `cd Descargas` si lo tienes en español.
+Una vez situados en el directorio donde se encuentra NitroTools.py procederemos a introducir en la terminal `python3 NitroTools.py` tras esto, el script está listo para ser usado sin problemas.
 
 
 
