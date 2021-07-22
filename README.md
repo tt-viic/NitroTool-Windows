@@ -8,7 +8,7 @@ Nos permitirá generar códigos de regalo de [Discord Nitro](https://discord.com
 
 ## REQUISITOS
 Para que la terminal pueda ejecutar el script, tendremos que tener descargado [Python](https://www.python.org/) y su sistema de gestión de paquetes [pip](https://pypi.org/project/pip/) a partir de la versión 3.8.0 o superior. 
-> para comprobar la versión de Python que tienes instalada ejecuta en terminal `python --version`
+> para comprobar la versión de Python que tiene instalada ejecuta en terminal `python --version`
 
 También deberemos tener descargados los requirements para descargarlos ejecute `pip install -r requirements.txt` en terminal.
 Las librerías que se descargarán son:
@@ -27,7 +27,7 @@ A continuación le dejo la forma de instalación de cada librería en particular
 
 
 ## EJECUCIÓN
-Para ejecutar el script ha de abrir el [CMD](https://www.ionos.es/digitalguide/servidores/herramientas/abrir-el-simbolo-del-sistema/) y [dirigirse al directorio en el que está el script](https://www.solvetic.com/tutoriales/article/8100-cambiar-de-directorio-en-cmd-windows-10-comandos/), por ejemplo, si se encuentra el script en Descargas copie `cd Downloads` si tienes el sistema operativo en inglés o `cd Descargas` si lo tienes en español.
+Para ejecutar el script ha de abrir el [CMD](https://www.ionos.es/digitalguide/servidores/herramientas/abrir-el-simbolo-del-sistema/) y [dirigirse al directorio en el que está el script](https://www.solvetic.com/tutoriales/article/8100-cambiar-de-directorio-en-cmd-windows-10-comandos/), por ejemplo, si se encuentra el script en Descargas copie `cd Downloads` si tiene el sistema operativo en inglés o `cd Descargas` si lo tiene en español.
 Una vez situados en el directorio donde se encuentra NitroTools.py procederemos a introducir en la terminal `python3 NitroTools.py` tras esto, el script está listo para ser usado sin problemas.
 
 
