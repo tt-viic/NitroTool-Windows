@@ -1,14 +1,16 @@
 # NitroTool-Windows
 ESTE SCRIPT ESCRITO EN PYTHON **SOLO FUNCIONA EN WINDOWS**.
 
-Para que la terminal pueda ejecutar el script, tendremos que tener descargado Python y su sistema de gestión de paquetes pip a partir de la versión 3.8.0 o superior (para comprobar la versión de Python que tienes instalada ejecuta en terminal "python --version")
+## REQUISITOS
+Para que la terminal pueda ejecutar el script, tendremos que tener descargado [Python](https://www.python.org/) y su sistema de gestión de paquetes [pip](https://pypi.org/project/pip/) a partir de la versión 3.8.0 o superior. 
+> para comprobar la versión de Python que tienes instalada ejecuta en terminal `python --version`
 
-También deberemos tener descargados los requirements para descargarlos ejecute "pip install -r requirements.txt"en terminal.
-#Discord, para descargarlas ejecute en terminal "pip install discord-webhook"
-#Colorama, para descargarlas ejecute en terminal "pip install colorama"
-#Requests, para descargarlas ejecute en terminal "python -m pip install requests"
+También deberemos tener descargados los requirements para descargarlos ejecute `pip install -r requirements.txt` en terminal.
+-Discord, para descargarlas ejecute en terminal "pip install discord-webhook"
+-Colorama, para descargarlas ejecute en terminal "pip install colorama"
+-Requests, para descargarlas ejecute en terminal "python -m pip install requests"
 
-Una vez hecho lo anterior, ejecútelo en la terminal.
+## EJECUCIÓN
 
 
 
