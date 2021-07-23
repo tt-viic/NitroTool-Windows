@@ -28,7 +28,7 @@ A continuación le dejo la forma de instalación de cada librería en particular
 
 ## EJECUCIÓN
 Para ejecutar el script ha de abrir el [CMD](https://www.ionos.es/digitalguide/servidores/herramientas/abrir-el-simbolo-del-sistema/) y [dirigirse al directorio en el que está el script](https://www.solvetic.com/tutoriales/article/8100-cambiar-de-directorio-en-cmd-windows-10-comandos/), por ejemplo, si se encuentra el script en Descargas copie `cd Downloads` si tiene el sistema operativo en inglés o `cd Descargas` si lo tiene en español.
-Una vez situados en el directorio donde se encuentra NitroTools.py procederemos a introducir en la terminal `python3 NitroTools.py` tras esto, el script está listo para ser usado sin problemas.
+Una vez situados en el directorio donde se encuentra NitroTools.py procederemos a introducir en la terminal `python NitroTools.py` tras esto, el script está listo para ser usado sin problemas.
 
 
 
