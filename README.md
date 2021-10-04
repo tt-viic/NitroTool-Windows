@@ -1,3 +1,6 @@
+![banner](https://user-images.githubusercontent.com/78870476/135883578-d0d7b084-3b4e-462c-b649-f771f45375c4.png)
+
+
 # NitroTool-Windows
 ESTE SCRIPT ESCRITO EN PYTHON **SOLO FUNCIONA EN WINDOWS**.
 
