@@ -22,7 +22,7 @@ A continuación le dejo la forma de instalación de cada librería en particular
 | --- | --- |
 | Discord-Webhook | `pip install discord-webhook` |
 | Colorama | `pip install colorama` |
-| Requests | `python -m pip install requests` |
+| Requests | `pip install requests` |
 
 
 
